@@ -1,0 +1,1 @@
+## Program of amicable numbers.
